@@ -71,7 +71,7 @@ https://www.google.com
 ### image syntax
 
 <!-- ![miraj](./images/1.JPG) -->
-<img src="./images/1.jpg" width="200" height="150">
+<img src="./images/1.JPG" width="200" height="150">
 
 ### emoji
 
