@@ -73,6 +73,16 @@ https://www.google.com
 <!-- ![miraj](./images/1.JPG) -->
 <img src="./images/1.jpg" width="200" height="150">
 
+### emoji
+
+😏
+
+### table
+
+| Name    | Email        |
+| ------- | ------------ |
+| Al rony | Text is here |
+
 <!-- all link is here -->
 
 [websitelink]: https://www.google.com
